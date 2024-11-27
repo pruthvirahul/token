@@ -119,3 +119,31 @@ express Statement of Purpose.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
+
+moralis 
+
+
+
+curl --request GET \
+        --url 'https://deep-index.moralis.io/api/v2.2/nft/0x524cab2ec69124574082676e6f654a18df49a048/7603' \
+        --header 'accept: application/json' \
+        --header 'X-API-Key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjIzNzY0MTMzLWJjOTgtNDg4NC1hMDYyLTMyZWI2ZDAzNWU2NyIsIm9yZ0lkIjoiNDE4Mjg4IiwidXNlcklkIjoiNDMwMTU1IiwidHlwZUlkIjoiOWIzNzU3M2ItY2JmNi00Y2M0LTllYjQtNjMxNGRmNzY2YjVjIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3MzI2ODM3MzQsImV4cCI6NDg4ODQ0MzczNH0.QilDH3ybW7To4-h2tLGknJIcksRNJ7oislip1Yj2K3k' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
